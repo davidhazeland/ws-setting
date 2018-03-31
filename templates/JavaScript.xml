@@ -1,0 +1,15 @@
+<templateSet group="JavaScript">
+  <template name="logt" value="console.log('--$TITLE$', $OBJECT$);" description="Log with title" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="title" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="console.log($OBJECT$);" description="Log" toReformat="false" toShortenFQNames="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
