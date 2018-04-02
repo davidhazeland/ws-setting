@@ -1,9 +1,0 @@
-<application>
-  <component name="TextDiffSettings">
-    <option name="SHARED_SETTINGS">
-      <SharedSettings>
-        <option name="CONTEXT_RANGE" value="-1" />
-      </SharedSettings>
-    </option>
-  </component>
-</application>
