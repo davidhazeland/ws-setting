@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class $NAME extends Component {
+export class ${NAME} extends React.PureComponent {
   render() {
     return (
       <div>
@@ -10,8 +10,8 @@ export class $NAME extends Component {
   }
 }
 
-$NAME.propTypes = {
+${NAME}.propTypes = {
 
 };
 
-export default $NAME;
+export default ${NAME}
