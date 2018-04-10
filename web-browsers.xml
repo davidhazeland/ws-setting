@@ -1,14 +1,14 @@
 <application>
   <component name="WebBrowsersConfiguration" default="first" showHover="false">
-    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" path="/Applications/Firefox Developer Edition.app">
-      <settings>
-        <profile>dev-edition-default</profile>
-      </settings>
-    </browser>
-    <browser id="2988a107-bb17-424b-8328-7c5b48037d1a" name="Debug" family="CHROME" path="/Applications/Google Chrome.app" active="false">
+    <browser id="2988a107-bb17-424b-8328-7c5b48037d1a" name="Debug" family="CHROME" path="/Applications/Google Chrome.app">
       <settings>
         <use-custom-profile>true</use-custom-profile>
         <user-data-dir>$USER_HOME$/Documents/chrome-user-data</user-data-dir>
+      </settings>
+    </browser>
+    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" path="/Applications/Firefox Developer Edition.app" active="false">
+      <settings>
+        <profile>dev-edition-default</profile>
       </settings>
     </browser>
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" active="false" />
