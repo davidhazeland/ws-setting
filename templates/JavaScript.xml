@@ -12,7 +12,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="enh" value="const enhance = compose(&#10;    $END$&#10;);" description="Enhance" toReformat="false" toShortenFQNames="true">
+  <template name="enh" value="const enhance = compose(&#10;  $END$&#10;);" description="Enhance" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
