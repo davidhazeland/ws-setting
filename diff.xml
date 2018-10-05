@@ -1,5 +1,12 @@
 <application>
   <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+        </PlaceSettings>
+      </entry>
+    </option>
     <option name="SHARED_SETTINGS">
       <SharedSettings>
         <option name="CONTEXT_RANGE" value="-1" />
