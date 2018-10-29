@@ -5,4 +5,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="id" value="@include desktop {&#10;  $CONTENT$&#10;}" description="Include Desktop" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
