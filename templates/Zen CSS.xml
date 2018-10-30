@@ -11,4 +11,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="it" value="@include tablet {&#10;    $CONTENT$&#10;}" description="Include Tablet" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
