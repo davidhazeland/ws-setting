@@ -53,9 +53,9 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v8.12.0/lib/node_modules/eslint/bin/eslint.js" />
+      <option name="program" value="$USER_HOME$/Code/can-react-components/node_modules/eslint/bin/eslint.js" />
       <option name="runOnExternalChanges" value="false" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
