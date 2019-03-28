@@ -28,4 +28,16 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="msg" value="$KEY$: {&#10;  id: `${scope}.$KEY$`,&#10;  defaultMessage: '$DEFAULT$',&#10;},$END$" description="Message" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ifm" value="import { FormattedMessage } from 'react-intl';" description="Import Formatted Message" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
