@@ -58,6 +58,9 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PasteMultiple" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
