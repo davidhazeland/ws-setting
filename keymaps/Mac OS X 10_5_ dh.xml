@@ -44,6 +44,7 @@
   <action id="GotoSuperMethod" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl f" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -66,6 +67,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowFilterPopup" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="alt home" />
