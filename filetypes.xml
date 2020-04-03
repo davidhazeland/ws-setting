@@ -7,6 +7,7 @@
       <mapping pattern="channel.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.defaults" type="PLAIN_TEXT" />
       <mapping pattern=".env.stagging" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="ks" type="TypeScript" />
