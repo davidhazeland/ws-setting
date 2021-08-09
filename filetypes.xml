@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="substring.js" type="AUTO_DETECTED" />
       <mapping pattern="placeholder" type="AUTO_DETECTED" />
       <mapping pattern="ScreenshotManager" type="JavaScript" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
